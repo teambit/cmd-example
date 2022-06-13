@@ -3,7 +3,8 @@ an example how to create a new command in bit
 
 # usage
 ```
-bit init
+bit compile
+bit install
 bit cmd-example
 ```
 
